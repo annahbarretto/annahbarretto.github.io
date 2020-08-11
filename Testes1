@@ -1,0 +1,18 @@
+echo "# annahbarretto.github.io" >> README.md 
+git init 
+git add README.md 
+git commit -m "first commit"
+git remote add origin https://github.com/annahbarretto/annahbarretto.github.io.git
+ git push -u origin master
+  <!doctype html>
+<html>
+ <head></head> 
+ <body>
+   teste 
+  <ul> 
+   <li>casa</li> 
+   <li>carro</li> 
+   <li>piscina</li> 
+  </ul> 
+ </body>
+</html>
